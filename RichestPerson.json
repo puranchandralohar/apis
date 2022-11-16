@@ -1,42 +1,42 @@
 [
-{
-"rank":"1",
-"image":"https://specials-images.forbesimg.com/imageserve/62d700cd6094d2c180f269b9/416x416.jpg?background=000000&cropX1=0&cropX2=959&cropY1=0&cropY2=959", 
-"name":"Elon Musk" , 
-"country":"United States",
-"source":"Tesla SpaceX",
-"finalWorth":"195174.468",
-},
-{
-"rank":"2",
-"image":"https://specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212",
-"name":"Bernard Arnault & family", , 
-"country":"France",
-"source":"LVMH",
-"finalWorth":"174621.449",
-},
-{
-"rank":"3",
-"image":"https://specials-images.forbesimg.com/imageserve/6345ac3b833e07cd89aa314c/416x416.jpg?background=000000&cropX1=473&cropX2=2286&cropY1=95&cropY2=1910",
-"name":"Gautam Adani",
-"country":"India"
-"source":"Infrastructure, Commodities"
-"finalWorth":"143994.673"
-},
-{
-"rank":"4",
-"image":"https://specials-images.forbesimg.com/imageserve/5bb22ae84bbe6f67d2e82e05/416x416.jpg?background=000000&cropX1=627&cropX2=1639&cropY1=129&cropY2=1142",
-"name":"Jeff Bezos",
-"country":"United States",
-"source":"Amazon",
-"finalWorth":"120368.092"
-},
-{
-"rank":"5",
-"image":"https://specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
-"name":"Warren Buffett",
-"country":"United States",
-"source":"Berkshire Hathaway",
-"finalWorth":"107455.214"
-}
+    {
+        "rank": 1,
+        "image": "https://specials-images.forbesimg.com/imageserve/62d700cd6094d2c180f269b9/416x416.jpg?background=000000&cropX1=0&cropX2=959&cropY1=0&cropY2=959",
+        "name": "Elon Musk",
+        "country": "United States",
+        "source": "Tesla SpaceX",
+        "finalWorth": 195174.468
+    },
+    {
+        "rank": 2,
+        "image": "https://specials-images.forbesimg.com/imageserve/5dc05518ca425400079c659f/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=1209&cropY2=5212",
+        "name": "Bernard Arnault & family",
+        "country": "France",
+        "source": "LVMH",
+        "finalWorth": 174621.449
+    },
+    {
+        "rank": 3,
+        "image": "https://specials-images.forbesimg.com/imageserve/6345ac3b833e07cd89aa314c/416x416.jpg?background=000000&cropX1=473&cropX2=2286&cropY1=95&cropY2=1910",
+        "name": "Gautam Adani",
+        "country": "India",
+        "source": "Infrastructure, Commodities",
+        "finalWorth": 143994.673
+    },
+    {
+        "rank": 4,
+        "image": "https://specials-images.forbesimg.com/imageserve/5bb22ae84bbe6f67d2e82e05/416x416.jpg?background=000000&cropX1=627&cropX2=1639&cropY1=129&cropY2=1142",
+        "name": "Jeff Bezos",
+        "country": "United States",
+        "source": "Amazon",
+        "finalWorth": 120368.092
+    },
+    {
+        "rank": 5,
+        "image": "https://specials-images.forbesimg.com/imageserve/5babb7f1a7ea4342a948b79a/416x416.jpg?background=000000&cropX1=748&cropX2=3075&cropY1=1753&cropY2=4082",
+        "name": "Warren Buffett",
+        "country": "United States",
+        "source": "Berkshire Hathaway",
+        "finalWorth": 107455.214
+    }
 ]
