@@ -1,0 +1,27 @@
+[
+    {
+        "country": "China",
+        "population": 1440297825,
+        "Area":9388211
+    },
+    {
+        "country": "India",
+        "population": 1382345085,
+        "Area":2973190
+    },
+    {
+        "country": "United States",
+        "population": 331341050,
+        "Area":9147420
+    },
+    {
+        "country": "Indonesia",
+        "population": 274021604,
+        "Area":1811570
+    },
+    {
+        "country": "Pakistan",
+        "population": 221612785,
+        "Area":770880
+    }
+]
