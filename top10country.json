@@ -23,5 +23,30 @@
         "country": "Pakistan",
         "population": 221612785,
         "Area":770880
+    },
+    {
+        "country": "Brazil",
+        "population": 212821986,
+        "Area":1509890
+    },
+    {
+        "country": "Nigeria",
+        "population": 206984347,
+        "Area":5175990
+    },
+    {
+        "country": "Bangladesh",
+        "population": 164972348,
+        "Area":1643222
+    },
+    {
+        "country": "Russia",
+        "population": 145945524,
+        "Area":62206
+    },
+    {
+        "country": "Mexico",
+        "population": 129166028,
+        "Area":1357224
     }
 ]
