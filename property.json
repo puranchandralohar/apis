@@ -140,7 +140,7 @@
         "bathrooms": 3,
         "area": "7x5",
         "date": "09/12/2022",
-        "img":"https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": 12,
@@ -153,7 +153,7 @@
         "bathrooms": 2,
         "area": "6x8",
         "date": "05/12/2022",
-        "img":"https://images.pexels.com/photos/3288103/pexels-photo-3288103.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/3288103/pexels-photo-3288103.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": 13,
@@ -166,7 +166,7 @@
         "bathrooms": 1,
         "area": "5x5",
         "date": "07/12/2022",
-        "img":"https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": 14,
@@ -179,7 +179,7 @@
         "bathrooms": 1,
         "area": "6x5",
         "date": "015/12/2022",
-        "img":"https://images.pexels.com/photos/314937/pexels-photo-314937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "img": "https://images.pexels.com/photos/314937/pexels-photo-314937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
         "id": 15,
@@ -192,6 +192,6 @@
         "bathrooms": 3,
         "area": "7x6",
         "date": "5/12/2022",
-        "img":"https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=600"
+        "img": "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
 ]
