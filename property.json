@@ -13,19 +13,6 @@
         "img": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
-        "id": 2,
-        "name": "Nariman Sea House",
-        "price": 5200,
-        "category": "House",
-        "address": "14,Sea Corner, Kolkata",
-        "location": "Kolkata",
-        "beds": 4,
-        "bathrooms": 3,
-        "area": "10x12",
-        "date": "05/12/2022",
-        "img": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    {
         "id": 3,
         "name": "Nariman Sea House",
         "price": 2600,
