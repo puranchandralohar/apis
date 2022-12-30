@@ -180,5 +180,31 @@
         "area": "7x6",
         "date": "5/12/2022",
         "img": "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 16,
+        "name": "Nia's Farmhouse",
+        "price": 2900,
+        "category": "Farmhouse",
+        "address": "City Centre, 15 Street, Hydrabad",
+        "location": "Hydrabad",
+        "beds": 4,
+        "bathrooms": 3,
+        "area": "6x6",
+        "date": "9/12/2022",
+        "img": "https://images.pexels.com/photos/2360673/pexels-photo-2360673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 17,
+        "name": "Queens Palace",
+        "price": 1500,
+        "category": "Farmhouse",
+        "address": "City Centre, 15 Street, KolKata",
+        "location": "Kolkata",
+        "beds": 4,
+        "bathrooms": 2,
+        "area": "8x8",
+        "date": "25/12/2022",
+        "img":"https://images.pexels.com/photos/247532/pexels-photo-247532.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
 ]
