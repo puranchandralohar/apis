@@ -206,5 +206,57 @@
         "area": "8x8",
         "date": "25/12/2022",
         "img":"https://images.pexels.com/photos/247532/pexels-photo-247532.jpeg?auto=compress&cs=tinysrgb&w=600"
-    }
+    },
+      {
+        "id": 18,
+        "name": "Merry's Little Corner",
+        "price": 2900,
+        "category": "Bunglow",
+        "address": "City Centre, 15 Street, Kolkata",
+        "location": "Kolkata",
+        "beds": 4,
+        "bathrooms": 3,
+        "area": "7x6",
+        "date": "5/12/2022",
+        "img": "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+      {
+        "id": 19,
+        "name": "Merry's Little Corner",
+        "price": 1800,
+        "category": "Mumbai",
+        "address": "City Centre, 15 Street, Mumbai",
+        "location": "Mumbai",
+        "beds": 4,
+        "bathrooms": 3,
+        "area": "8x6",
+        "date": "5/12/2022",
+        "img": "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+      {
+        "id": 20,
+        "name": "Merry's Little Corner",
+        "price": 1500,
+        "category": "House",
+        "address": "City Centre, 150B Street, Pune",
+        "location": "Pune",
+        "beds": 4,
+        "bathrooms": 3,
+        "area": "9x6",
+        "date": "5/12/2022",
+        "img": "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+      {
+        "id": 21,
+        "name": "Merry's Little Corner",
+        "price": 9500,
+        "category": "Bunglow",
+        "address": "City Centre, 15 Street, Pune",
+        "location": "Pune",
+        "beds": 6,
+        "bathrooms": 3,
+        "area": "12x10",
+        "date": "5/12/2022",
+        "img": "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
 ]
